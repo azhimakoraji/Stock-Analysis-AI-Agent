@@ -71,8 +71,9 @@ streamlit run main.py
 
 Refer to `Stock Analysis AI Agent.pptx` and `example.png` in the project for a full walkthrough.
 
+##  Author
 **Azhima Koraji**  
-Built as part of the Qarir Academy Final Project on LLMs.
+
 
 ---
 
